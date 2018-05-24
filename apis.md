@@ -1,26 +1,43 @@
 ---
 name: Acxiom
 x-slug: acxiom
-description: Acxiom Corporation is a marketing technology and services company with
-  offices in the United States, Europe, Asia, and South America. Acxiom offers marketing
-  and information management services, including multichannel marketing, addressable
-  advertising, and database management. Acxiom collects, analyzes, and parses customer
-  and business information for clients, helping them to target advertising campaigns,
-  score leads, and more.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/acxiom-perspectives-logo1.png
+description: Acxioms data and technology transform marketing  giving our clients the
+  power to manage audiences, personalize customer experiences and create profitable
+  customer relationships.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10134-acxiom.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "106292"
 tags: Acxiom
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/acxiom/master/_listings/acxiom/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-blog
   url: http://www.acxiom.com/blog/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/smartdm-holdings
 - type: x-developer
   url: https://developer.myacxiom.com/
+- type: x-email
+  url: privacy@acxiom.com
+- type: x-email
+  url: consumercare@acxiom.com
+- type: x-email
+  url: referencereport@acxiom.com
+- type: x-email
+  url: datenschutz@acxiom.com
+- type: x-email
+  url: privacyshieldoptout@acxiom.com
+- type: x-email
+  url: consumerreportau@acxiom.com
+- type: x-email
+  url: optoutau@acxiom.com
+- type: x-email
+  url: cil@acxiom.com
+- type: x-email
+  url: ukconsumerservices@acxiom.com
 - type: x-twitter
   url: https://twitter.com/acxiom
 - type: x-website
